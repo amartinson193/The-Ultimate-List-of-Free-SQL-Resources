@@ -29,28 +29,33 @@ Each resource may be tagged with the following:
 
 **SQL Join Cheatsheets**
 - [SQL Joins — Venn Diagram](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Joins%20Venn%20Diagram.jpeg)
-- SQL Joins — Venn Diagram Alternate
-- SQL Joins — Checkered Flag Diagram
-- SQL Joins — Join Diagram
+- [SQL Joins — Venn Diagram Alternate](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Joins%20Alternate.png)
+- [SQL Joins — Checkered Flag Diagram](https://github.com/amartinson193/SQL_Checkered_Flag_Join_Diagrams)
+- [SQL Joins — Join Diagram](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Join%20Diagram.png)
 
 **SQL Interview Cheatsheets**
-- [Basic Statistics Using SQL](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Basic%20Statistics%20Using%20SQL.pdf)
 - [SQL Interview Questions & Answers](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Interview%20Questions%20%26%20Answers.pdf)
 
 **SQL Order of Operations Cheatsheets**
 - [SQL Order of Operations](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Order%20of%20Execution%20-%20Data%20Science%20Infinity.pdf)
 
+**SQL Commands Cheatsheets**
+- [Basic Statistics Using SQL](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Basic%20Statistics%20Using%20SQL.pdf)
+- [SQL Mind Map](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Mind%20Map.jpeg)
+- [SQL Commands Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Commands%20Cheatsheet.jpeg)
+- 3 Page SQL Commands Cheatsheet from SQL Tutorial
+  - [Page 1](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL-Cheet-Sheet-1-SQL-Tutorial.png)
+  - [Page 2](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL-Cheat-Sheet-2-SQL-Tutorial.png)
+  - [Page 3](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL-Cheat-Sheet-3-SQL-Tutorial.png)
+- [SQL Visuals for SQL Sprinters Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Visuals%20for%20SQL%20Sprinters.pdf)
+- [SQL Cheatsheet for Data Science](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Cheat%20Sheet%20For%20Data%20Science.pdf)
+- [Data Prep with SQL Quick Reference](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Data%20Prep%20with%20SQL%20-%20Quick%20Reference.jpeg)
+- [The Big 6 of SQL Query Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/The%20Big%206%20of%20SQL%20Querying%20from%20Maven%20Analytics.pdf) 
+
 **General SQL Cheatsheets**
-- Database Types
-- SQL Mind Map
-- SQL Operations Cheatsheet
-- 3 Page SQL Cheatsheet
-- InterviewBit SQL Cheatsheet
-- SQL Visuals for SQL Sprinters Cheatsheet
-- SQL Cheatsheet for Data Science
-- Data Prep with SQL Quick Reference
-- The Big 6 of SQL Query Cheatsheet
-- Common Commands SQL Cheatsheet
+- [Common Commands SQL Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Cheatsheet%20Compilation.jpeg)
+- [Database Types](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Types%20of%20Databases.jpeg)
+- [SQL Cheatsheet Booklet from InterviewBit](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20CheatSheet%20InterviewBit.pdf)
 
 ## Course
 
