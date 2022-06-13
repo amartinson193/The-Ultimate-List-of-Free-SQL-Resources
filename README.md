@@ -16,13 +16,20 @@
 
 ## Cheatsheets
 
-- [Basic Statistics Using SQL](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Basic%20Statistics%20Using%20SQL.pdf)
-- [SQL Interview Questions & Answers](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Interview%20Questions%20%26%20Answers.pdf)
-- [SQL Order of Operations](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Order%20of%20Execution%20-%20Data%20Science%20Infinity.pdf)
+**SQL Join Cheatsheets**
 - [SQL Joins — Venn Diagram](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Joins%20Venn%20Diagram.jpeg)
 - SQL Joins — Venn Diagram Alternate
 - SQL Joins — Checkered Flag Diagram
 - SQL Joins — Join Diagram
+
+**SQL Interview Cheatsheets**
+- [Basic Statistics Using SQL](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Basic%20Statistics%20Using%20SQL.pdf)
+- [SQL Interview Questions & Answers](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Interview%20Questions%20%26%20Answers.pdf)
+
+**SQL Order of Operations Cheatsheets**
+- [SQL Order of Operations](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Order%20of%20Execution%20-%20Data%20Science%20Infinity.pdf)
+
+**General SQL Cheatsheets**
 - Database Types
 - SQL Mind Map
 - SQL Operations Cheatsheet
