@@ -2,7 +2,17 @@
 
 ## Welcome to the Ultimate List of Free SQL Resources
 
-This list brings together the best free resources for learning SQL. The items in each section are ordered based on their popularity on Reddit/LinkedIn so the most popular will be at the top. 
+This list brings together the best free resources for learning SQL. It's intended to be a curated list of the best resources, for a list of all resources considered, but that didn't make the list, please look in the applicable folders.
+
+The items in each section are ordered based on their popularity on Reddit/LinkedIn so the most popular will be at the top. If there is no ranking available, I'll also rank based on Google search results and finally on personal opinions. 
+
+## Why Does This Repo Exist?
+
+A lot of beginners learning SQL aren't sure where to start learning SQL or even where to look for content. This is a quick list of places to start that we believe will give them the best chance at success in getting their first job in the data world. However, this compilation of resources can also help those who are more advanced as well.
+
+I didn't want this resource to include all available SQL resources since then it would be useless considering a lot of low quality materials would be included. This list has to be curated otherwise how is it better than just a Google search result? So it's similar to how Yahoo originally categorized website links into categories in the pre-search engine days. Reddit has shown community-based ranking still has relevance and if this compilation is useful enough then hopefully it will become a first page Google result itself. If that happens then mission accomplished.
+
+# How Can I Contribute?
 
 To add to this repository, feel free to either open a pull request or an issue, both are great ways to help build this resource. An issue might be easier so you don't have to clone the large amount of files in this repo.
 
