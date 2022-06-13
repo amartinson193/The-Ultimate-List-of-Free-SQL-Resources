@@ -5,4 +5,4 @@
 - [SQL With Practice Exercises](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/Books/SQL%20with%20Practice%20Exercises.pdf)
 - [Select Star SQL](https://selectstarsql.com/)
 - SQL Server Execution Plans
-- Use the Index, Luke
+- [Use the Index, Luke](https://use-the-index-luke.com/)
