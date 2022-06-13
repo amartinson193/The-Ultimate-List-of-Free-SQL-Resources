@@ -6,3 +6,20 @@
 - [Select Star SQL](https://selectstarsql.com/)
 - SQL Server Execution Plans
 - [Use the Index, Luke](https://use-the-index-luke.com/)
+
+
+## Blogs
+
+
+## Cheatsheets
+
+## Course
+
+## Online Database for Practice
+
+## Practice
+
+## Tutorial
+
+## Paid Resources Honorable Mentions
+
