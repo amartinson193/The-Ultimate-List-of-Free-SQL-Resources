@@ -76,12 +76,34 @@ Each resource may be tagged with the following:
 - [Danny Ma - 8 Week SQL Challenge](https://8weeksqlchallenge.com/getting-started/)
 - [Codecademy - Learn SQL](https://www.codecademy.com/learn/learn-sql)
 - [Kaggle - Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
+- [SQL Courses - Edx (Freemium)](https://www.edx.org/search?q=sql&tab=course)
 
-## Online Database for Practice
+## Online Databases for Practice
+- [Google BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox)
+- [PostgreSQL Online Database](https://extendsclass.com/postgresql-online.html)
+- [SQLite Online Database](https://www.sql-practice.com/)
+- [SQL Fiddle](http://sqlfiddle.com/)
 
 ## Practice
+- [Codewars](https://www.codewars.com/)
+- [HackerRank](https://www.hackerrank.com/domains/sql)
+- [LeetCode (Freemium)](https://leetcode.com/study-plan/sql/)
+- [SQL Murder Mystery](https://mystery.knightlab.com/)
+- [SQLBattle](https://sqlbattle.dev/)
+- [Advanced SQL Puzzles](https://advancedsqlpuzzles.com/)
 
 ## Tutorial
+- [SQL Tutorial - SQLcourse.com](https://www.sqlcourse.com/)
+- [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+- [SQL Bolt](https://sqlbolt.com/)
+- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
+- [SQL Tutorial - SQLtutorial.org](https://www.sqltutorial.org/)
+- [Relational Database - freecodecamp](https://www.freecodecamp.org/learn/relational-database/)
+- [Awesome Repo (Databases Section)](https://github.com/sindresorhus/awesome)
+- [Getting Started with SQL - RIP Tutorial](https://riptutorial.com/sql)
+- 
+
+
 
 ## Paid Resources Honorable Mentions
 
