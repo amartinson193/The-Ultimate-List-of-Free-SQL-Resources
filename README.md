@@ -2,9 +2,7 @@
 
 ## Welcome to the Ultimate List of Free SQL Resources
 
-This list brings together the best free resources for learning SQL. It's intended to be a curated list of the best resources.
-
-The items in each section are ordered based on their popularity on Reddit/LinkedIn so the most popular will be at the top. If there is no ranking available, I'll also rank based on Google search results and finally on personal opinions. 
+This list brings together the best free resources for learning SQL. It's intended to be a curated list of the best resources. If you're interested in how these resources rank, you can go to the Learning SQL Reddit page and go to the wiki. Click on any of the link categories and you will get a ranked list of content in that category. Instructions for custom searching the Reddit page are at the bottom of the wiki.
 
 ## Why Does This Repo Exist?
 
@@ -18,11 +16,9 @@ To add to this repository, feel free to either open a pull request or an issue, 
 
 ## Repo Information 
 
-Each category has the top 10 resources that were selected
-
 Each resource may be tagged with the following:
-* Reddit: This is a link to the ranking on Reddit
-* LinkedIn: This is a link to the ranking based on a LinkedIn vote/poll
+* Reddit: This is a link to the post on Reddit
+* LinkedIn: This is a link to a LinkedIn post where this content was shared
 
 ## Books
 - [SQL for Data Analytics — Beginners Guide by Standford University](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/Books/SQL%20for%20Data%20Analytics%20by%20Standford%20University.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6925857934140715008/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6925857934140715008%29) [[Reddit]](https://www.reddit.com/r/learningsql/comments/utx7w5/sql_for_data_analytics_beginners_guide_by/)
