@@ -27,17 +27,16 @@ Each resource may be tagged with the following:
 
 ## Books
 - [SQL for Data Analytics — Beginners Guide by Standford University](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/Books/SQL%20for%20Data%20Analytics%20by%20Standford%20University.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6925857934140715008/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6925857934140715008%29) [[Reddit]](https://www.reddit.com/r/learningsql/comments/utx7w5/sql_for_data_analytics_beginners_guide_by/)
-- [SQL With Practice Exercises](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/Books/SQL%20with%20Practice%20Exercises.pdf)
 - [Select Star SQL](https://selectstarsql.com/)
-- [SQL Server Execution Plans](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/Books/SQL%20Server%20Execution%20Plans.pdf)
+- [SQL Server Execution Plans](https://www.red-gate.com/simple-talk/books/sql-server-execution-plans-third-edition-by-grant-fritchey/)
 - [Use the Index, Luke](https://use-the-index-luke.com/)
 
 
 ## Blogs
-- [KDNuggets SQL Blog](https://www.kdnuggets.com/tag/sql)
-- [Medium SQL Topic Blogs](https://medium.com/tag/sql)
-- [Learning SQL Medium Blog](https://www.linkedin.com/company/80829250/admin/)
-- [Alex The Analyst](https://www.youtube.com/c/AlexTheAnalyst)
+- [SQL Blog - KDNuggets](https://www.kdnuggets.com/tag/sql) [[Reddit]](https://www.reddit.com/r/learningsql/comments/utwc4u/kdnuggets_sql_blog/)
+- [SQL Topic Blogs - Medium](https://medium.com/tag/sql)[[Reddit]](https://www.reddit.com/r/learningsql/comments/utwfnz/using_tags_to_search_topics_on_medium/)
+- [Learning SQL Blog - Medium](https://www.linkedin.com/company/80829250/admin/)
+- [Alex The Analyst - YouTube](https://www.youtube.com/c/AlexTheAnalyst)
 
 ## Cheatsheets
 
@@ -118,6 +117,7 @@ Each resource may be tagged with the following:
 - [Practical SQL - Anthony Debarros](https://www.practicalsql.com/)
 - [SQL for Data Analysis - Cathy Tanimura](https://www.oreilly.com/library/view/sql-for-data/9781492088776/)
 - [Learning SQL - Alan Beaulieu](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
+- [SQL with Practice Exercises - D Armstrong](https://www.amazon.com/gp/product/B01CX2B006/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B01CX2B006&SubscriptionId=1MGPYB6YW3HWK55XCGG2) [[LinkedIn]](https://www.linkedin.com/posts/mengyaowang11_sql-with-practice-exercises-activity-6838772935285714944-Oo-n?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 **Courses**
 - [Learn SQL - Datacamp](https://www.datacamp.com/learn/sql)
