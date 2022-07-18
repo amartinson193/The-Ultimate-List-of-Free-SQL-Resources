@@ -2,7 +2,7 @@
 
 ## Welcome to the Ultimate List of Free SQL Resources
 
-This list brings together the best free resources for learning SQL. It's intended to be a curated list of the best resources. If you're interested in how these resources rank, you can go to the Learning SQL Reddit page and go to the wiki. Click on any of the link categories and you will get a ranked list of content in that category. Instructions for custom searching the Reddit page are at the bottom of the wiki.
+This list brings together the best free resources for learning SQL. It's intended to be a curated list of the best resources. If you're interested in how these resources rank, you can go to the [Learning SQL Reddit page](https://www.reddit.com/r/learningsql/wiki/index/) and go to the wiki. Click on any of the link categories and you will get a ranked list of content in that category. Instructions for custom searching the Reddit page are at the bottom of the wiki.
 
 ## Why Does This Repo Exist?
 
