@@ -72,6 +72,8 @@ Each resource may be tagged with the following:
 - [SQL Cheatsheet Booklet from InterviewBit](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20CheatSheet%20InterviewBit.pdf)
 
 ## Courses
+
+**General/ANSI SQL**
 - [Khan Academy - Intro to SQL: Querying and Managing Data](https://www.khanacademy.org/computing/computer-programming/sql)
 - [Danny Ma - 8 Week SQL Challenge](https://8weeksqlchallenge.com/getting-started/)
 - [Codecademy - Learn SQL](https://www.codecademy.com/learn/learn-sql)
@@ -93,17 +95,22 @@ Each resource may be tagged with the following:
 - [Advanced SQL Puzzles](https://advancedsqlpuzzles.com/)
 
 ## Tutorial
+
+**General/ANSI SQL**
 - [SQL Tutorial - SQLcourse.com](https://www.sqlcourse.com/)
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 - [SQL Bolt](https://sqlbolt.com/)
-- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
-- [SQL Tutorial - SQLtutorial.org](https://www.sqltutorial.org/)
 - [Relational Database - freecodecamp](https://www.freecodecamp.org/learn/relational-database/)
 - [Awesome Repo (Databases Section)](https://github.com/sindresorhus/awesome)
 - [Getting Started with SQL - RIP Tutorial](https://riptutorial.com/sql)
-- 
+- [SQL Tutorial - SQLtutorial.org](https://www.sqltutorial.org/)
+- [SQL Tutorial - W3 Schools](https://www.w3schools.com/sql/)
+- [SQL Tutorial - Mode](https://mode.com/sql-tutorial/)
+- [SQL Tutorial - tutorialspoint.com](https://www.tutorialspoint.com/sql/)
+- [SQL Tutorial - Bipp.io]
 
-
+**Postgres SQL**
+- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
 
 ## Paid Resources Honorable Mentions
 
