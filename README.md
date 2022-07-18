@@ -77,7 +77,7 @@ Each resource may be tagged with the following:
 ## Online Databases for Practice
 - [Google BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox)
 - [PostgreSQL Online Database](https://extendsclass.com/postgresql-online.html)
-- [SQLite Online Database](https://www.sql-practice.com/)
+- [SQLite Online Database](https://www.sql-practice.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/uak7hh/online_database_for_practicing/)
 - [SQL Fiddle](http://sqlfiddle.com/)
 
 ## Practice
