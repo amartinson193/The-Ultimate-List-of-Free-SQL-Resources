@@ -21,7 +21,6 @@ To add to this repository, feel free to either open a pull request or an issue, 
 Each category has the top 10 resources that were selected
 
 Each resource may be tagged with the following:
-* OG: This is the original source that this resource was first found
 * Reddit: This is a link to the ranking on Reddit
 * LinkedIn: This is a link to the ranking based on a LinkedIn vote/poll
 
