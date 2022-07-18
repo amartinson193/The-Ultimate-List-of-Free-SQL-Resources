@@ -71,7 +71,11 @@ Each resource may be tagged with the following:
 - [Database Types](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Types%20of%20Databases.jpeg)
 - [SQL Cheatsheet Booklet from InterviewBit](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20CheatSheet%20InterviewBit.pdf)
 
-## Course
+## Courses
+- [Khan Academy - Intro to SQL: Querying and Managing Data](https://www.khanacademy.org/computing/computer-programming/sql)
+- [Danny Ma - 8 Week SQL Challenge](https://8weeksqlchallenge.com/getting-started/)
+- [Codecademy - Learn SQL](https://www.codecademy.com/learn/learn-sql)
+- [Kaggle - Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
 
 ## Online Database for Practice
 
