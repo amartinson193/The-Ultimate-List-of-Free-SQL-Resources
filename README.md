@@ -112,7 +112,7 @@ Each resource may be tagged with the following:
 - [Practical SQL - Anthony Debarros](https://www.practicalsql.com/)
 - [SQL for Data Analysis - Cathy Tanimura](https://www.oreilly.com/library/view/sql-for-data/9781492088776/)
 - [Learning SQL - Alan Beaulieu](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
-- [SQL with Practice Exercises - D Armstrong](https://www.amazon.com/gp/product/B01CX2B006/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B01CX2B006&SubscriptionId=1MGPYB6YW3HWK55XCGG2) [[LinkedIn]](https://www.linkedin.com/posts/mengyaowang11_sql-with-practice-exercises-activity-6838772935285714944-Oo-n?utm_source=linkedin_share&utm_medium=member_desktop_web)
+- [SQL with Practice Exercises - D Armstrong](https://www.amazon.com/gp/product/B01CX2B006/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B01CX2B006&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 
 **Courses**
 - [Learn SQL - Datacamp](https://www.datacamp.com/learn/sql)
