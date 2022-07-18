@@ -2,7 +2,7 @@
 
 ## Welcome to the Ultimate List of Free SQL Resources
 
-This list brings together the best free resources for learning SQL. It's intended to be a curated list of the best resources. For a list of all resources considered, but that didn't make the list, please look in the applicable folders.
+This list brings together the best free resources for learning SQL. It's intended to be a curated list of the best resources.
 
 The items in each section are ordered based on their popularity on Reddit/LinkedIn so the most popular will be at the top. If there is no ranking available, I'll also rank based on Google search results and finally on personal opinions. 
 
