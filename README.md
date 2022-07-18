@@ -107,10 +107,23 @@ Each resource may be tagged with the following:
 - [SQL Tutorial - W3 Schools](https://www.w3schools.com/sql/)
 - [SQL Tutorial - Mode](https://mode.com/sql-tutorial/)
 - [SQL Tutorial - tutorialspoint.com](https://www.tutorialspoint.com/sql/)
-- [SQL Tutorial - Bipp.io]
+- [SQL Tutorial - Bipp.io](https://bipp.io/sql-tutorial)
 
 **Postgres SQL**
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
 
 ## Paid Resources Honorable Mentions
 
+**Books**
+- [Practical SQL - Anthony Debarros](https://www.practicalsql.com/)
+- [SQL for Data Analysis - Cathy Tanimura](https://www.oreilly.com/library/view/sql-for-data/9781492088776/)
+- [Learning SQL - Alan Beaulieu](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
+
+**Courses**
+- [Learn SQL - Datacamp](https://www.datacamp.com/learn/sql)
+- [Maven Analytics](https://www.mavenanalytics.io/)
+- [SQL Courses - Coursera](https://www.coursera.org/search?query=sql&)
+- [SQL Courses - Udemy](https://www.udemy.com/courses/search/?src=ukw&q=sql)
+- [SQL Courses - learnsql.com](https://learnsql.com/)
+- [21 Days to Data - Avery Smith](https://www.datacareerjumpstart.com/21daystodata)
+- [Data with Danny - Danny Ma](https://linktr.ee/datawithdanny)
