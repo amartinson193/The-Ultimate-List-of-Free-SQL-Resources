@@ -12,7 +12,7 @@ I didn't want this resource to include all available SQL resources since then it
 
 ## How Can I Contribute?
 
-To add to this repository, feel free to either open a pull request or an issue, both are great ways to help build this resource. An issue might be easier so you don't have to clone the large amount of files in this repo.
+To add to this repository, feel free to either open a pull request or an issue, both are great ways to help build this resource.
 
 ## Repo Information 
 
