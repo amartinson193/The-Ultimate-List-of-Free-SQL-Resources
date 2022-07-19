@@ -68,7 +68,7 @@ Each resource may be tagged with the following:
 ## Courses
 
 **General/ANSI SQL**
-- [Khan Academy - Intro to SQL: Querying and Managing Data](https://www.khanacademy.org/computing/computer-programming/sql)
+- [Khan Academy - Intro to SQL: Querying and Managing Data](https://www.khanacademy.org/computing/computer-programming/sql) [[Reddit]](https://www.reddit.com/r/learningsql/comments/umt7dx/khan_academy_intro_to_sql_querying_and_managing/)
 - [Danny Ma - 8 Week SQL Challenge](https://8weeksqlchallenge.com/getting-started/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ujur6y/dannys_diner_sql_challenge_from_danny_mas_8_week/)
 - [Codecademy - Learn SQL](https://www.codecademy.com/learn/learn-sql)
 - [Kaggle - Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
