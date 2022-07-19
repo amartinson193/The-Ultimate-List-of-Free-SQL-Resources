@@ -70,7 +70,7 @@ Each resource may be tagged with the following:
 **General/ANSI SQL**
 - [Khan Academy - Intro to SQL: Querying and Managing Data](https://www.khanacademy.org/computing/computer-programming/sql) [[Reddit]](https://www.reddit.com/r/learningsql/comments/umt7dx/khan_academy_intro_to_sql_querying_and_managing/)
 - [Danny Ma - 8 Week SQL Challenge](https://8weeksqlchallenge.com/getting-started/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ujur6y/dannys_diner_sql_challenge_from_danny_mas_8_week/)
-- [Codecademy - Learn SQL](https://www.codecademy.com/learn/learn-sql)
+- [Codecademy - Learn SQL](https://www.codecademy.com/learn/learn-sql) [[Reddit]](https://www.reddit.com/r/learningsql/comments/v5pedp/learn_sql_by_codecademy/)
 - [Kaggle - Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) [[Reddit]](https://www.reddit.com/r/learningsql/comments/v5pdhp/intro_to_sql_by_kaggle/)
 - [SQL Courses - Edx (Freemium)](https://www.edx.org/search?q=sql&tab=course)
 
