@@ -29,7 +29,7 @@ Each resource may be tagged with the following:
 
 ## Blogs
 - [SQL Blog - KDNuggets](https://www.kdnuggets.com/tag/sql) [[Reddit]](https://www.reddit.com/r/learningsql/comments/utwc4u/kdnuggets_sql_blog/)
-- [SQL Topic Blogs - Medium](https://medium.com/tag/sql) [[Reddit]](https://www.reddit.com/r/learningsql/comments/utwfnz/using_tags_to_search_topics_on_medium/)
+- [SQL Topic Blogs - Medium](https://medium.com/tag/sql) [[Reddit]](https://www.reddit.com/r/learningsql/comments/utwfnz/using_tags_to_search_topics_on_medium/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6928411371835457537)
 - [Learning SQL Blog - Medium](https://www.linkedin.com/company/80829250/admin/)
 - [Alex The Analyst - YouTube](https://www.youtube.com/c/AlexTheAnalyst) [[Reddit]](https://www.reddit.com/r/learningsql/comments/w2e0gq/alex_the_analyst_youtube_vlog/)
 
