@@ -2,13 +2,11 @@
 
 ## Welcome to the Ultimate List of Free SQL Resources
 
-This list brings together the best free resources for learning SQL. It's intended to be a curated list of the best resources. If you're interested in how these resources rank, you can go to the [Learning SQL Reddit page](https://www.reddit.com/r/learningsql/wiki/index/) and go to the wiki. Click on any of the link categories and you will get a ranked list of content in that category. Instructions for custom searching the Reddit page are at the bottom of the wiki.
+This list brings together the best free resources for learning SQL. If you're interested in how these resources rank, you can go to the [Learning SQL Reddit page](https://www.reddit.com/r/learningsql/wiki/index/) and go to the wiki. Click on any of the link categories and you will get a ranked list of content in that category. Instructions for custom searching the Reddit page are at the bottom of the wiki.
 
 ## Why Does This Repo Exist?
 
-A lot of beginners learning SQL aren't sure where to start learning SQL or even where to look for content. This is a quick list of places to start that we believe will give them the best chance at success in getting their first job in the data world. However, this compilation of resources should still have something valuable for those who are more advanced as well.
-
-I didn't want this resource to include all available SQL resources since then it would be useless considering a lot of low quality materials would be included. This list has to be curated otherwise how is it better than just a Google search result? So it's similar to how Yahoo originally categorized website links into categories in the pre-search engine days. Reddit has shown community-based ranking still has relevance and if this compilation is useful enough then hopefully it will become a first page Google result itself. If that happens then mission accomplished.
+A lot of beginners learning SQL aren't sure where to start learning SQL or even where to look for content. This is a quick list of places to start that I believe will give them the best chance at success in getting their first job in the data world. However, this compilation of resources should still have something valuable for those who are more advanced as well.
 
 ## How Can I Contribute?
 
