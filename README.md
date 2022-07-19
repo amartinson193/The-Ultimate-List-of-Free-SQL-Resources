@@ -84,7 +84,7 @@ Each resource may be tagged with the following:
 - [Codewars](https://www.codewars.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/uag77j/codewars_to_practice_sql/)
 - [HackerRank](https://www.hackerrank.com/domains/sql)
 - [LeetCode (Freemium)](https://leetcode.com/study-plan/sql/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ubym4t/leetcode_for_practicing_sql/)
-- [SQL Murder Mystery](https://mystery.knightlab.com/)
+- [SQL Murder Mystery](https://mystery.knightlab.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/umt2q5/sql_murder_mystery/)
 - [SQLBattle](https://sqlbattle.dev/)
 - [Advanced SQL Puzzles](https://advancedsqlpuzzles.com/)
 
