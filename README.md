@@ -45,7 +45,7 @@ Each resource may be tagged with the following:
 - [SQL Interview Questions & Answers](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Interview%20Questions%20%26%20Answers.pdf)
 
 **SQL Order of Operations Cheatsheets**
-- [SQL Order of Operations](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Order%20of%20Execution%20-%20Data%20Science%20Infinity.pdf)
+- [SQL Order of Operations - Data Science Infinity](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Order%20of%20Execution%20-%20Data%20Science%20Infinity.pdf) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ub4umc/sql_order_of_operations_cheatsheet/)
 
 **SQL Commands Cheatsheets**
 - [Basic Statistics Using SQL](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Basic%20Statistics%20Using%20SQL.pdf)
