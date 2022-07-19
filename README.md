@@ -104,7 +104,7 @@ Each resource may be tagged with the following:
 - [SQL Tutorial - Bipp.io](https://bipp.io/sql-tutorial)
 
 **Postgres SQL**
-- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
+- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ud4fjp/postgresql_tutorial_website/)
 
 ## Paid Resources Honorable Mentions
 
