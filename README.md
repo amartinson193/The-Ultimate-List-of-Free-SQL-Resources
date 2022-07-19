@@ -36,7 +36,7 @@ Each resource may be tagged with the following:
 ## Cheatsheets
 
 **SQL Join Cheatsheets**
-- [SQL Joins — Venn Diagram](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Joins%20Venn%20Diagram.jpeg)
+- [SQL Joins — Venn Diagram - C.L. Moffat](https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6930869117067427840)
 - [SQL Joins — Venn Diagram Alternate](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Joins%20Alternate.png)
 - [SQL Joins — Checkered Flag Diagram](https://github.com/amartinson193/SQL_Checkered_Flag_Join_Diagrams)
 - [SQL Joins — Join Diagram](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Join%20Diagram.png)
