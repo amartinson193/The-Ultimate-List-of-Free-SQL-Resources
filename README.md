@@ -63,7 +63,7 @@ Each resource may be tagged with the following:
 **General SQL Cheatsheets**
 - [Common Commands SQL Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Cheatsheet%20Compilation.jpeg) [[Reddit]](https://www.reddit.com/r/learningsql/comments/vc563h/common_commands_sql_cheatsheet/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6942167836119154688)
 - [Database Types](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Types%20of%20Databases.jpeg)
-- [SQL Cheatsheet Booklet from InterviewBit](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20CheatSheet%20InterviewBit.pdf)
+- [SQL Cheatsheet Booklet from InterviewBit](https://www.interviewbit.com/sql-cheat-sheet/)
 
 ## Courses
 
