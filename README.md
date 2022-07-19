@@ -92,7 +92,7 @@ Each resource may be tagged with the following:
 
 **General/ANSI SQL**
 - [SQL Tutorial - SQLcourse.com](https://www.sqlcourse.com/)
-- [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+- [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ubyuy8/sqlzoo_tutorial/)
 - [SQL Bolt](https://sqlbolt.com/) [[Reddit]] (https://www.reddit.com/r/learningsql/comments/ubyvt8/sqlbolt_tutorial/)
 - [Relational Database - freecodecamp](https://www.freecodecamp.org/learn/relational-database/)
 - [Awesome Repo (Databases Section)](https://github.com/sindresorhus/awesome)
