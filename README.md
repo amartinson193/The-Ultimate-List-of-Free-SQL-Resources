@@ -39,7 +39,7 @@ Each resource may be tagged with the following:
 - [SQL Joins — Venn Diagram Alternate](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Joins%20Alternate.png)
 - [SQL Joins — Checkered Flag Diagram](https://github.com/amartinson193/SQL_Checkered_Flag_Join_Diagrams) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6930869117067427840)
 - [SQL Joins — Join Diagram](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Join%20Diagram.png) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6930869117067427840)
-- [SQL Joins - Join Diagram Highlighted Rows](https://github.com/amartinson193/The-Ultimate-List-of-Free-SQL-Resources/blob/main/CheatSheets/SQL%20Joins%20-%20Join%20Diagram%20Highlighted%20Table%20Rows.jpeg)
+- [SQL Joins - Join Diagram Highlighted Rows](https://github.com/amartinson193/The-Ultimate-List-of-Free-SQL-Resources/blob/main/CheatSheets/SQL%20Joins%20-%20Join%20Diagram%20Highlighted%20Table%20Rows.jpeg) [[Source]](https://www.linkedin.com/posts/panagiotis-papaemmanouil_this-is-the-only-cheat-sheet-youll-activity-6958345519827963904-2srl?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 **SQL Interview Cheatsheets**
 - [SQL Interview Questions & Answers](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Interview%20Questions%20%26%20Answers.pdf) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ucgdqd/practice_sql_interview_questions_cheatsheet_from/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6924752118369173504)
