@@ -17,12 +17,13 @@ To add to this repository, feel free to either open a pull request or an issue, 
 Each resource may be tagged with the following:
 * Reddit: This is a link to the post on Reddit
 * LinkedIn:  This is a link to the post on LinkedIn
+* Source: The original link where the info was first discovered (will update to original source if it can be found)
 
 ## Books
 - [SQL for Data Analytics — Beginners Guide by Standford University](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/Books/SQL%20for%20Data%20Analytics%20by%20Standford%20University.pdf) [[Reddit]](https://www.reddit.com/r/learningsql/comments/utx7w5/sql_for_data_analytics_beginners_guide_by/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6925857934140715008/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6925857934140715008%29)
 - [Select Star SQL](https://selectstarsql.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ubyl3a/select_star_sql_ebook/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6942500246333607937)
 - [SQL Server Execution Plans](https://www.red-gate.com/simple-talk/books/sql-server-execution-plans-third-edition-by-grant-fritchey/)
-- [Use the Index, Luke](https://use-the-index-luke.com/)
+- [Use the Index, Luke](https://use-the-index-luke.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/wmthd7/use_the_index_luke_free_ebook/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6963935589154840576)
 
 
 ## Blogs
@@ -38,6 +39,7 @@ Each resource may be tagged with the following:
 - [SQL Joins — Venn Diagram Alternate](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Joins%20Alternate.png)
 - [SQL Joins — Checkered Flag Diagram](https://github.com/amartinson193/SQL_Checkered_Flag_Join_Diagrams) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6930869117067427840)
 - [SQL Joins — Join Diagram](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Join%20Diagram.png) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6930869117067427840)
+- [SQL Joins - Join Diagram Highlighted Rows](https://github.com/amartinson193/The-Ultimate-List-of-Free-SQL-Resources/blob/main/CheatSheets/SQL%20Joins%20-%20Join%20Diagram%20Highlighted%20Table%20Rows.jpeg) [[Source]](https://www.linkedin.com/posts/panagiotis-papaemmanouil_this-is-the-only-cheat-sheet-youll-activity-6958345519827963904-2srl?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 **SQL Interview Cheatsheets**
 - [SQL Interview Questions & Answers](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Interview%20Questions%20%26%20Answers.pdf) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ucgdqd/practice_sql_interview_questions_cheatsheet_from/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6924752118369173504)
