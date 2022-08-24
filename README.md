@@ -88,6 +88,7 @@ Each resource may be tagged with the following:
 - [SQL Murder Mystery](https://mystery.knightlab.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/umt2q5/sql_murder_mystery/)
 - [SQLBattle](https://sqlbattle.dev/)
 - [Advanced SQL Puzzles](https://advancedsqlpuzzles.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/wfaz4a/advanced_sql_puzzles/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6960630791550681088)
+- [Ace The SQL Interview by DataLemur](https://datalemur.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6968283612706177026)
 
 ## Tutorial
 
