@@ -104,6 +104,7 @@ Each resource may be tagged with the following:
 - [SQL Tutorial - Mode](https://mode.com/sql-tutorial/)
 - [SQL Tutorial - tutorialspoint.com](https://www.tutorialspoint.com/sql/)
 - [SQL Tutorial - Bipp.io](https://bipp.io/sql-tutorial)
+- [SQL Interactive Tutorial - SQLteaching.com](https://www.sqlteaching.com/)
 
 **Postgres SQL**
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ud4fjp/postgresql_tutorial_website/)
