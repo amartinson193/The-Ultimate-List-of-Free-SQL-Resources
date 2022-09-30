@@ -53,7 +53,7 @@ Each resource may be tagged with the following:
 - [Basic Statistics Using SQL](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Basic%20Statistics%20Using%20SQL.pdf) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ujutux/basic_statistics_using_sql/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6926917777811247104)
 - [SQL Mind Map](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Mind%20Map.jpeg)
 - [SQL Commands Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Commands%20Cheatsheet.jpeg)
-- 3 Page SQL Commands Cheatsheet from SQL Tutorial
+- 3 Page SQL Commands Cheatsheet from SQL Tutorial [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6981619432527699968)
   - [Page 1](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL-Cheet-Sheet-1-SQL-Tutorial.png)
   - [Page 2](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL-Cheat-Sheet-2-SQL-Tutorial.png)
   - [Page 3](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL-Cheat-Sheet-3-SQL-Tutorial.png)
