@@ -107,6 +107,7 @@ Each resource may be tagged with the following:
 - [SQL Tutorial - tutorialspoint.com](https://www.tutorialspoint.com/sql/)
 - [SQL Tutorial - Bipp.io](https://bipp.io/sql-tutorial)
 - [SQL Interactive Tutorial - SQLteaching.com](https://www.sqlteaching.com/)
+- [SQL Concepts Tutorial - data.world](https://docs.data.world/documentation/sql/concepts/basic/SELECT_and_FROM.html) 
 
 **Postgres SQL**
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ud4fjp/postgresql_tutorial_website/)
