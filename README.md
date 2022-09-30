@@ -67,6 +67,7 @@ Each resource may be tagged with the following:
 - [Common Commands SQL Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Cheatsheet%20Compilation.jpeg) [[Reddit]](https://www.reddit.com/r/learningsql/comments/vc563h/common_commands_sql_cheatsheet/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6942167836119154688)
 - [Database Types](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Types%20of%20Databases.jpeg)
 - [SQL Cheatsheet Booklet from InterviewBit](https://www.interviewbit.com/sql-cheat-sheet/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/wsjhbn/sql_cheatsheet_from_interviewbit/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6966441887935119360)
+- [SQL Concepts - Data.World](https://docs.data.world/documentation/sql/concepts/basic/SELECT_and_FROM.html)
 
 ## Courses
 
@@ -107,7 +108,7 @@ Each resource may be tagged with the following:
 - [SQL Tutorial - tutorialspoint.com](https://www.tutorialspoint.com/sql/)
 - [SQL Tutorial - Bipp.io](https://bipp.io/sql-tutorial)
 - [SQL Interactive Tutorial - SQLteaching.com](https://www.sqlteaching.com/)
-- [SQL Concepts Tutorial - data.world](https://docs.data.world/documentation/sql/concepts/basic/SELECT_and_FROM.html) 
+- [SQL Tutorial - data.world](https://docs.data.world/en/98503-data-world-sql-tutorial.html#UUID-5b9804ef-9cdf-3266-5743-2d4353ef92f7) 
 
 **Postgres SQL**
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ud4fjp/postgresql_tutorial_website/)
