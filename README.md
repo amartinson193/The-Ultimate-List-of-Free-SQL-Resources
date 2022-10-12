@@ -32,6 +32,7 @@ Each resource may be tagged with the following:
 - [Learning SQL Blog - Medium](https://www.linkedin.com/company/80829250/admin/)
 - [Alex The Analyst - YouTube](https://www.youtube.com/c/AlexTheAnalyst) [[Reddit]](https://www.reddit.com/r/learningsql/comments/w2e0gq/alex_the_analyst_youtube_vlog/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6970451317697716226)
 - [Ankit Bansal - YouTube](https://www.youtube.com/user/1988ankitbansal) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6974056643353317376)
+- [TechTFQ - YouTube](https://www.youtube.com/c/techTFQ)
 
 ## Cheatsheets
 
