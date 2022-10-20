@@ -63,6 +63,7 @@ Each resource may be tagged with the following:
 - [Data Prep with SQL Quick Reference](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Data%20Prep%20with%20SQL%20-%20Quick%20Reference.jpeg)
 - [The Big 6 of SQL Query Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/The%20Big%206%20of%20SQL%20Querying%20from%20Maven%20Analytics.pdf) 
 - [Row Number, Rank, and Dense Rank](https://www.linkedin.com/feed/update/urn:li:activity:6975822793540001792) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6975822793540001792)
+- [SQL Commands Categories - GeeksforGeeks](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6988922311902908416)
 
 **General SQL Cheatsheets**
 - [Common Commands SQL Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Cheatsheet%20Compilation.jpeg) [[Reddit]](https://www.reddit.com/r/learningsql/comments/vc563h/common_commands_sql_cheatsheet/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6942167836119154688)
