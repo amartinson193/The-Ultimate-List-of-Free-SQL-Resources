@@ -110,6 +110,7 @@ Each resource may be tagged with the following:
 - [SQL Tutorial - Bipp.io](https://bipp.io/sql-tutorial)
 - [SQL Interactive Tutorial - SQLteaching.com](https://www.sqlteaching.com/)
 - [SQL Tutorial - data.world](https://docs.data.world/en/98503-data-world-sql-tutorial.html#UUID-5b9804ef-9cdf-3266-5743-2d4353ef92f7) 
+- [SQL Tutorial - geeksforgeeks](https://www.geeksforgeeks.org/sql-tutorial/?ref=gcse)
 
 **Postgres SQL**
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ud4fjp/postgresql_tutorial_website/)
