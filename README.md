@@ -95,6 +95,9 @@ Each resource may be tagged with the following:
 - [Advanced SQL Puzzles](https://advancedsqlpuzzles.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/wfaz4a/advanced_sql_puzzles/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6960630791550681088)
 - [Ace The SQL Interview by DataLemur](https://datalemur.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6968283612706177026)
 
+## Projects
+- [BrainTree SQL Challenge](https://github.com/AlexanderConnelly/BrainTree_SQL_Coding_Challenge_Data_Analyst) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6993649099862376448)
+
 ## Tutorial
 
 **General/ANSI SQL**
