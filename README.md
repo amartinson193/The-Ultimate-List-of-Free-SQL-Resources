@@ -58,7 +58,7 @@ Each resource may be tagged with the following:
   - [Page 1](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL-Cheet-Sheet-1-SQL-Tutorial.png)
   - [Page 2](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL-Cheat-Sheet-2-SQL-Tutorial.png)
   - [Page 3](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL-Cheat-Sheet-3-SQL-Tutorial.png)
-- [SQL Visuals for SQL Sprinters Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Visuals%20for%20SQL%20Sprinters.pdf)
+- [SQL Visuals for SQL Sprinters Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Visuals%20for%20SQL%20Sprinters.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6996174736191803392)
 - [SQL Cheatsheet for Data Science](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Cheat%20Sheet%20For%20Data%20Science.pdf)
 - [Data Prep with SQL Quick Reference](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Data%20Prep%20with%20SQL%20-%20Quick%20Reference.jpeg)
 - [The Big 6 of SQL Query Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/The%20Big%206%20of%20SQL%20Querying%20from%20Maven%20Analytics.pdf) 
