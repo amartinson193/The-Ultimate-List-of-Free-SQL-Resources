@@ -119,6 +119,9 @@ Each resource may be tagged with the following:
 **Postgres SQL**
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ud4fjp/postgresql_tutorial_website/)
 
+**MySQL**
+- MySQL Tutorial for Beginners [Full Course](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+
 ## Paid Resources Honorable Mentions
 
 **Books**
