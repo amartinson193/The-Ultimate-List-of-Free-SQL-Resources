@@ -107,7 +107,6 @@ Each resource may be tagged with the following:
 - [SQL Bolt](https://sqlbolt.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ubyvt8/sqlbolt_tutorial/)
 - [Relational Database - freecodecamp](https://www.freecodecamp.org/learn/relational-database/)
 - [Awesome Repo (Databases Section)](https://github.com/sindresorhus/awesome)
-- [Getting Started with SQL - RIP Tutorial](https://riptutorial.com/sql)
 - [SQL Tutorial - SQLtutorial.org](https://www.sqltutorial.org/)
 - [SQL Tutorial - W3 Schools](https://www.w3schools.com/sql/)
 - [SQL Tutorial - Mode](https://mode.com/sql-tutorial/)
@@ -139,3 +138,9 @@ Each resource may be tagged with the following:
 - [SQL Courses - learnsql.com](https://learnsql.com/)
 - [21 Days to Data - Avery Smith](https://www.datacareerjumpstart.com/21daystodata)
 - [Data with Danny - Danny Ma](https://linktr.ee/datawithdanny)
+
+
+## Lower Quality Learning Resources Honorable Mentions
+
+- [Getting Started with SQL - RIP Tutorial](https://riptutorial.com/sql)
+
