@@ -33,6 +33,7 @@ Each resource may be tagged with the following:
 - [Alex The Analyst - YouTube](https://www.youtube.com/c/AlexTheAnalyst) [[Reddit]](https://www.reddit.com/r/learningsql/comments/w2e0gq/alex_the_analyst_youtube_vlog/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6970451317697716226)
 - [Ankit Bansal - YouTube](https://www.youtube.com/user/1988ankitbansal) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6974056643353317376)
 - [TechTFQ - YouTube](https://www.youtube.com/c/techTFQ) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6986040772814884865)
+- [Kudvenkat - YouTube](https://www.youtube.com/@Csharp-video-tutorialsBlogspot/search?query=sql)
 
 ## Cheatsheets
 
