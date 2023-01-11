@@ -70,6 +70,7 @@ Each resource may be tagged with the following:
 - [Database Types](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Types%20of%20Databases.jpeg)
 - [SQL Cheatsheet Booklet from InterviewBit](https://www.interviewbit.com/sql-cheat-sheet/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6966441887935119360)
 - [SQL Concepts - Data.World](https://docs.data.world/documentation/sql/concepts/basic/SELECT_and_FROM.html)
+- [SQL Cheat Sheet - Steve Nouri](https://www.linkedin.com/feed/update/urn:li:activity:7018966718110715904)
 
 ## Courses
 
