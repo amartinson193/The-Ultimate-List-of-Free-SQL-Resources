@@ -122,6 +122,11 @@ Each resource may be tagged with the following:
 **MySQL**
 - MySQL Tutorial for Beginners [Full Course](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 
+**Data Modeling**
+- [Kimball Modeling](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7018264947168071680)
+- [Star Model](https://learn.microsoft.com/en-us/power-bi/guidance/star-schema) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7016080405472718849)
+
+
 ## Paid Resources Honorable Mentions
 
 **Books**
