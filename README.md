@@ -15,22 +15,21 @@ To add to this repository, feel free to either open a pull request or an issue, 
 ## Repo Information 
 
 Each resource may be tagged with the following:
-* Reddit: This is a link to the post on Reddit
 * LinkedIn:  This is a link to the post on LinkedIn
 * Source: The original link where the info was first discovered (will update to original source if it can be found)
 
 ## Books
-- [SQL for Data Analytics — Beginners Guide by Standford University](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/Books/SQL%20for%20Data%20Analytics%20by%20Standford%20University.pdf) [[Reddit]](https://www.reddit.com/r/learningsql/comments/utx7w5/sql_for_data_analytics_beginners_guide_by/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6925857934140715008/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6925857934140715008%29)
-- [Select Star SQL](https://selectstarsql.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ubyl3a/select_star_sql_ebook/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6942500246333607937)
+- [SQL for Data Analytics — Beginners Guide by Standford University](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/Books/SQL%20for%20Data%20Analytics%20by%20Standford%20University.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6925857934140715008/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6925857934140715008%29)
+- [Select Star SQL](https://selectstarsql.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6942500246333607937)
 - [SQL Server Execution Plans](https://www.red-gate.com/simple-talk/books/sql-server-execution-plans-third-edition-by-grant-fritchey/)
-- [Use the Index, Luke](https://use-the-index-luke.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/wmthd7/use_the_index_luke_free_ebook/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6963935589154840576)
+- [Use the Index, Luke](https://use-the-index-luke.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6963935589154840576)
 
 
 ## Blogs
-- [SQL Blog - KDNuggets](https://www.kdnuggets.com/tag/sql) [[Reddit]](https://www.reddit.com/r/learningsql/comments/utwc4u/kdnuggets_sql_blog/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6929437674181185537)
-- [SQL Topic Blogs - Medium](https://medium.com/tag/sql) [[Reddit]](https://www.reddit.com/r/learningsql/comments/utwfnz/using_tags_to_search_topics_on_medium/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6928411371835457537)
+- [SQL Blog - KDNuggets](https://www.kdnuggets.com/tag/sql) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6929437674181185537)
+- [SQL Topic Blogs - Medium](https://medium.com/tag/sql) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6928411371835457537)
 - [Learning SQL Blog - Medium](https://www.linkedin.com/company/80829250/admin/)
-- [Alex The Analyst - YouTube](https://www.youtube.com/c/AlexTheAnalyst) [[Reddit]](https://www.reddit.com/r/learningsql/comments/w2e0gq/alex_the_analyst_youtube_vlog/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6970451317697716226)
+- [Alex The Analyst - YouTube](https://www.youtube.com/c/AlexTheAnalyst) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6970451317697716226)
 - [Ankit Bansal - YouTube](https://www.youtube.com/user/1988ankitbansal) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6974056643353317376)
 - [TechTFQ - YouTube](https://www.youtube.com/c/techTFQ) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6986040772814884865)
 - [Kudvenkat - YouTube](https://www.youtube.com/@Csharp-video-tutorialsBlogspot/search?query=sql)
@@ -45,14 +44,14 @@ Each resource may be tagged with the following:
 - [SQL Joins - Join Diagram Highlighted Rows](https://github.com/amartinson193/The-Ultimate-List-of-Free-SQL-Resources/blob/main/CheatSheets/SQL%20Joins%20-%20Join%20Diagram%20Highlighted%20Table%20Rows.jpeg) [[Source]](https://www.linkedin.com/posts/panagiotis-papaemmanouil_this-is-the-only-cheat-sheet-youll-activity-6958345519827963904-2srl?utm_source=linkedin_share&utm_medium=member_desktop_web) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6961318034338684928)
 
 **SQL Interview Cheatsheets**
-- [SQL Interview Questions & Answers](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Interview%20Questions%20%26%20Answers.pdf) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ucgdqd/practice_sql_interview_questions_cheatsheet_from/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6924752118369173504)
-- [SQL Interview Questions by Atul Kumar](https://github.com/amartinson193/The-Ultimate-List-of-Free-SQL-Resources/blob/main/CheatSheets/SQL%20Interview%20Questions%20by%20Atul%20Kumar.pdf) [[Reddit]](https://www.reddit.com/r/learningsql/comments/wqqhra/sql_interview_questions_by_atul_kumar/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6965675909211111424) 
+- [SQL Interview Questions & Answers](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Interview%20Questions%20%26%20Answers.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6924752118369173504)
+- [SQL Interview Questions by Atul Kumar](https://github.com/amartinson193/The-Ultimate-List-of-Free-SQL-Resources/blob/main/CheatSheets/SQL%20Interview%20Questions%20by%20Atul%20Kumar.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6965675909211111424) 
 
 **SQL Order of Execution Cheatsheets**
-- [SQL Order of Execution - Data Science Infinity](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Order%20of%20Execution%20-%20Data%20Science%20Infinity.pdf) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ub4umc/sql_order_of_operations_cheatsheet/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6991123163216519168)
+- [SQL Order of Execution - Data Science Infinity](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Order%20of%20Execution%20-%20Data%20Science%20Infinity.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6991123163216519168)
 
 **SQL Commands Cheatsheets**
-- [Basic Statistics Using SQL](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Basic%20Statistics%20Using%20SQL.pdf) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ujutux/basic_statistics_using_sql/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6926917777811247104)
+- [Basic Statistics Using SQL](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Basic%20Statistics%20Using%20SQL.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6926917777811247104)
 - [SQL Mind Map](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Mind%20Map.jpeg)
 - [SQL Commands Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Commands%20Cheatsheet.jpeg)
 - 3 Page SQL Commands Cheatsheet from SQL Tutorial [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6981619432527699968)
@@ -67,33 +66,33 @@ Each resource may be tagged with the following:
 - [SQL Commands Categories - GeeksforGeeks](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6988922311902908416)
 
 **General SQL Cheatsheets**
-- [Common Commands SQL Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Cheatsheet%20Compilation.jpeg) [[Reddit]](https://www.reddit.com/r/learningsql/comments/vc563h/common_commands_sql_cheatsheet/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6942167836119154688)
+- [Common Commands SQL Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Cheatsheet%20Compilation.jpeg) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6942167836119154688)
 - [Database Types](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Types%20of%20Databases.jpeg)
-- [SQL Cheatsheet Booklet from InterviewBit](https://www.interviewbit.com/sql-cheat-sheet/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/wsjhbn/sql_cheatsheet_from_interviewbit/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6966441887935119360)
+- [SQL Cheatsheet Booklet from InterviewBit](https://www.interviewbit.com/sql-cheat-sheet/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6966441887935119360)
 - [SQL Concepts - Data.World](https://docs.data.world/documentation/sql/concepts/basic/SELECT_and_FROM.html)
 
 ## Courses
 
 **General/ANSI SQL**
-- [Khan Academy - Intro to SQL: Querying and Managing Data](https://www.khanacademy.org/computing/computer-programming/sql) [[Reddit]](https://www.reddit.com/r/learningsql/comments/umt7dx/khan_academy_intro_to_sql_querying_and_managing/)
-- [Danny Ma - 8 Week SQL Challenge](https://8weeksqlchallenge.com/getting-started/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ujur6y/dannys_diner_sql_challenge_from_danny_mas_8_week/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6927288526212333569)
-- [Codecademy - Learn SQL](https://www.codecademy.com/learn/learn-sql) [[Reddit]](https://www.reddit.com/r/learningsql/comments/v5pedp/learn_sql_by_codecademy/)
-- [Kaggle - Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) [[Reddit]](https://www.reddit.com/r/learningsql/comments/v5pdhp/intro_to_sql_by_kaggle/)
+- [Khan Academy - Intro to SQL: Querying and Managing Data](https://www.khanacademy.org/computing/computer-programming/sql)
+- [Danny Ma - 8 Week SQL Challenge](https://8weeksqlchallenge.com/getting-started/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6927288526212333569)
+- [Codecademy - Learn SQL](https://www.codecademy.com/learn/learn-sql) 
+- [Kaggle - Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
 - [SQL Courses - Edx (Freemium)](https://www.edx.org/search?q=sql&tab=course)
 
 ## Online Databases for Practice
 - [Google BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox) [[LinkedIn]](https://www.linkedin.com/posts/learning-sql_enable-the-bigquery-sandbox-google-cloud-activity-7011362762001895424-4EhO?utm_source=share&utm_medium=member_ios)
-- [PostgreSQL Online Database](https://extendsclass.com/postgresql-online.html) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ue110d/postgres_online_database_to_practice_from/)
-- [SQLite Online Database](https://www.sql-practice.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/uak7hh/online_database_for_practicing/)
+- [PostgreSQL Online Database](https://extendsclass.com/postgresql-online.html)
+- [SQLite Online Database](https://www.sql-practice.com/)
 - [SQL Fiddle](http://sqlfiddle.com/)
 
 ## Practice
-- [Codewars](https://www.codewars.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/uag77j/codewars_to_practice_sql/)
+- [Codewars](https://www.codewars.com/)
 - [HackerRank](https://www.hackerrank.com/domains/sql)
-- [LeetCode (Freemium)](https://leetcode.com/study-plan/sql/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ubym4t/leetcode_for_practicing_sql/)
-- [SQL Murder Mystery](https://mystery.knightlab.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/umt2q5/sql_murder_mystery/)
+- [LeetCode (Freemium)](https://leetcode.com/study-plan/sql/)
+- [SQL Murder Mystery](https://mystery.knightlab.com/)
 - [SQLBattle](https://sqlbattle.dev/)
-- [Advanced SQL Puzzles](https://advancedsqlpuzzles.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/wfaz4a/advanced_sql_puzzles/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6960630791550681088)
+- [Advanced SQL Puzzles](https://advancedsqlpuzzles.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6960630791550681088)
 - [Ace The SQL Interview by DataLemur](https://datalemur.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6968283612706177026)
 
 ## Projects
@@ -103,8 +102,8 @@ Each resource may be tagged with the following:
 
 **General/ANSI SQL**
 - [SQL Tutorial - SQLcourse.com](https://www.sqlcourse.com/)
-- [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ubyuy8/sqlzoo_tutorial/)
-- [SQL Bolt](https://sqlbolt.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ubyvt8/sqlbolt_tutorial/)
+- [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) 
+- [SQL Bolt](https://sqlbolt.com/)
 - [Relational Database - freecodecamp](https://www.freecodecamp.org/learn/relational-database/)
 - [Awesome Repo (Databases Section)](https://github.com/sindresorhus/awesome)
 - [SQL Tutorial - SQLtutorial.org](https://www.sqltutorial.org/)
@@ -117,7 +116,7 @@ Each resource may be tagged with the following:
 - [SQL Tutorial - geeksforgeeks](https://www.geeksforgeeks.org/sql-tutorial/?ref=gcse)
 
 **Postgres SQL**
-- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/ud4fjp/postgresql_tutorial_website/)
+- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) 
 
 **MySQL**
 - MySQL Tutorial for Beginners [Full Course](https://www.youtube.com/watch?v=7S_tz1z_5bA)
@@ -125,10 +124,10 @@ Each resource may be tagged with the following:
 ## Paid Resources Honorable Mentions
 
 **Books**
-- [Practical SQL - Anthony Debarros](https://www.practicalsql.com/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/utx9v1/practical_sql_book/)
-- [SQL for Data Analysis - Cathy Tanimura (O'Reilly)](https://www.oreilly.com/library/view/sql-for-data/9781492088776/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/utx610/sql_for_data_analysis_book/)
-- [Learning SQL - Alan Beaulieu (O'Reilly)](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/) [[Reddit]](https://www.reddit.com/r/learningsql/comments/utx3e8/learning_sql_book/)
-- [SQL with Practice Exercises - D Armstrong](https://www.amazon.com/gp/product/B01CX2B006/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B01CX2B006&SubscriptionId=1MGPYB6YW3HWK55XCGG2) [[Reddit]](https://www.reddit.com/r/learningsql/comments/utwlmn/sql_with_practice_exercises_book/)
+- [Practical SQL - Anthony Debarros](https://www.practicalsql.com/) 
+- [SQL for Data Analysis - Cathy Tanimura (O'Reilly)](https://www.oreilly.com/library/view/sql-for-data/9781492088776/)
+- [Learning SQL - Alan Beaulieu (O'Reilly)](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
+- [SQL with Practice Exercises - D Armstrong](https://www.amazon.com/gp/product/B01CX2B006/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B01CX2B006&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 
 **Courses**
 - [Learn SQL - Datacamp](https://www.datacamp.com/learn/sql)
