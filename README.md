@@ -121,7 +121,7 @@ Each resource may be tagged with the following:
 
 **MySQL**
 - [MySQL Tutorial for Beginners - Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA)
-- [SQL and Databases - A Full Course for Beginners - freecodecamp](https://www.freecodecamp.org/news/sql-and-databases-full-course/)
+- [SQL and Databases - A Full Course for Beginners - freecodecamp](https://www.freecodecamp.org/news/sql-and-databases-full-course/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7020771274977132545)
 
 
 **Data Modeling**
