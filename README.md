@@ -80,6 +80,7 @@ Each resource may be tagged with the following:
 - [Codecademy - Learn SQL](https://www.codecademy.com/learn/learn-sql) 
 - [Kaggle - Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
 - [SQL Courses - Edx (Freemium)](https://www.edx.org/search?q=sql&tab=course)
+- [SQL and Databases - A Full Course for Beginners - freecodecamp](https://www.freecodecamp.org/news/sql-and-databases-full-course/)
 
 ## Online Databases for Practice
 - [Google BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox) [[LinkedIn]](https://www.linkedin.com/posts/learning-sql_enable-the-bigquery-sandbox-google-cloud-activity-7011362762001895424-4EhO?utm_source=share&utm_medium=member_ios)
