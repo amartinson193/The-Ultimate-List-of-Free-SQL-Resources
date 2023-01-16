@@ -80,7 +80,6 @@ Each resource may be tagged with the following:
 - [Codecademy - Learn SQL](https://www.codecademy.com/learn/learn-sql) 
 - [Kaggle - Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
 - [SQL Courses - Edx (Freemium)](https://www.edx.org/search?q=sql&tab=course)
-- [SQL and Databases - A Full Course for Beginners - freecodecamp](https://www.freecodecamp.org/news/sql-and-databases-full-course/)
 
 ## Online Databases for Practice
 - [Google BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox) [[LinkedIn]](https://www.linkedin.com/posts/learning-sql_enable-the-bigquery-sandbox-google-cloud-activity-7011362762001895424-4EhO?utm_source=share&utm_medium=member_ios)
@@ -121,7 +120,9 @@ Each resource may be tagged with the following:
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) 
 
 **MySQL**
-- MySQL Tutorial for Beginners [Full Course](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+- [MySQL Tutorial for Beginners - Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+- [SQL and Databases - A Full Course for Beginners - freecodecamp](https://www.freecodecamp.org/news/sql-and-databases-full-course/)
+
 
 **Data Modeling**
 - [Kimball Modeling](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7018264947168071680)
