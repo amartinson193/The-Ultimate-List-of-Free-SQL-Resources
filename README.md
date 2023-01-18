@@ -122,7 +122,7 @@ Each resource may be tagged with the following:
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) 
 - [SQL Bolt](https://sqlbolt.com/)
 - [SQL Interactive Tutorial - SQLteaching.com](https://www.sqlteaching.com/)
-- [GalaXQL SQL Galaxy Interactive Tutoria](https://solhsa.com/g3/)
+- [GalaXQL SQL Galaxy Interactive Tutorial](https://solhsa.com/g3/)
 - [Select Star SQL](https://selectstarsql.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6942500246333607937)
 
 **Postgres SQL**
