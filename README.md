@@ -79,16 +79,16 @@ Each resource may be tagged with the following:
 - [SQL Fiddle](http://sqlfiddle.com/)
 
 ## Practice
-- [Codewars](https://www.codewars.com/)
-- [HackerRank](https://www.hackerrank.com/domains/sql)
-- [LeetCode (Freemium)](https://leetcode.com/study-plan/sql/)
 - [Advanced SQL Puzzles](https://advancedsqlpuzzles.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6960630791550681088)
-- [Ace The SQL Interview by DataLemur](https://datalemur.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6968283612706177026)
 
 **Interactive**
 - [SQLBattle](https://sqlbattle.dev/)
 - [Schemaverse](https://schemaverse.com/)
 - [SQL Murder Mystery](https://mystery.knightlab.com/)
+- [Codewars](https://www.codewars.com/)
+- [HackerRank](https://www.hackerrank.com/domains/sql)
+- [LeetCode (Freemium)](https://leetcode.com/study-plan/sql/)
+- [Ace The SQL Interview by DataLemur](https://datalemur.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6968283612706177026)
 
 # SQL Tools
 
