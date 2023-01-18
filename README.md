@@ -145,7 +145,7 @@ Each resource may be tagged with the following:
 - [Learning SQL - Alan Beaulieu (O'Reilly)](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
 - [SQL with Practice Exercises - D Armstrong](https://www.amazon.com/gp/product/B01CX2B006/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B01CX2B006&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 
-**Courses**
+**Interactive Courses/Tutorials**
 - [Learn SQL - Datacamp](https://www.datacamp.com/learn/sql)
 - [Maven Analytics](https://www.mavenanalytics.io/)
 - [SQL Courses - Coursera](https://www.coursera.org/search?query=sql&)
