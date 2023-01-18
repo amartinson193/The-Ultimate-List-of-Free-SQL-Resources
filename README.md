@@ -90,7 +90,7 @@ Each resource may be tagged with the following:
 - [LeetCode (Freemium)](https://leetcode.com/study-plan/sql/)
 - [Ace The SQL Interview by DataLemur](https://datalemur.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6968283612706177026)
 
-# SQL Tools
+## SQL Tools
 
 **AI Tools**
 - [AirOps AI Data Sidekick](https://www.airops.com/)
