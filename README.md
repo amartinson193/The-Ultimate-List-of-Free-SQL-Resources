@@ -72,15 +72,6 @@ Each resource may be tagged with the following:
 - [SQL Concepts - Data.World](https://docs.data.world/documentation/sql/concepts/basic/SELECT_and_FROM.html)
 - [SQL Cheat Sheet - Steve Nouri](https://github.com/amartinson193/The-Ultimate-List-of-Free-SQL-Resources/blob/main/CheatSheets/SQL%20Cheat%20Sheet%20-%20Steve%20Nouri.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7018966718110715904)
 
-## Courses
-
-**General/ANSI SQL**
-- [Khan Academy - Intro to SQL: Querying and Managing Data](https://www.khanacademy.org/computing/computer-programming/sql)
-- [Danny Ma - 8 Week SQL Challenge](https://8weeksqlchallenge.com/getting-started/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6927288526212333569)
-- [Codecademy - Learn SQL](https://www.codecademy.com/learn/learn-sql) 
-- [Kaggle - Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
-- [SQL Courses - Edx (Freemium)](https://www.edx.org/search?q=sql&tab=course)
-
 ## Online Databases for Practice
 - [Google BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox) [[LinkedIn]](https://www.linkedin.com/posts/learning-sql_enable-the-bigquery-sandbox-google-cloud-activity-7011362762001895424-4EhO?utm_source=share&utm_medium=member_ios)
 - [PostgreSQL Online Database](https://extendsclass.com/postgresql-online.html)
@@ -99,6 +90,8 @@ Each resource may be tagged with the following:
 - [Schemaverse](https://schemaverse.com/)
 - [SQL Murder Mystery](https://mystery.knightlab.com/)
 
+# SQL Tools
+
 **AI Tools**
 - [AirOps AI Data Sidekick](https://www.airops.com/)
 - [AI2SQL](https://www.ai2sql.io/)
@@ -106,7 +99,7 @@ Each resource may be tagged with the following:
 ## Projects
 - [BrainTree SQL Challenge](https://github.com/AlexanderConnelly/BrainTree_SQL_Coding_Challenge_Data_Analyst) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6993649099862376448)
 
-## Tutorial
+## Courses/Tutorials
 
 **General/ANSI SQL**
 - [SQL Tutorial - SQLcourse.com](https://www.sqlcourse.com/)
@@ -121,6 +114,11 @@ Each resource may be tagged with the following:
 - [SQL Tutorial - geeksforgeeks](https://www.geeksforgeeks.org/sql-tutorial/?ref=gcse)
 
 **Interactive**
+- [Khan Academy - Intro to SQL: Querying and Managing Data](https://www.khanacademy.org/computing/computer-programming/sql)
+- [Danny Ma - 8 Week SQL Challenge](https://8weeksqlchallenge.com/getting-started/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6927288526212333569)
+- [Codecademy - Learn SQL](https://www.codecademy.com/learn/learn-sql) 
+- [Kaggle - Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
+- [SQL Courses - Edx (Freemium)](https://www.edx.org/search?q=sql&tab=course)
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) 
 - [SQL Bolt](https://sqlbolt.com/)
 - [SQL Interactive Tutorial - SQLteaching.com](https://www.sqlteaching.com/)
@@ -133,7 +131,6 @@ Each resource may be tagged with the following:
 **MySQL**
 - [MySQL Tutorial for Beginners - Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 - [SQL and Databases - A Full Course for Beginners - freecodecamp](https://www.freecodecamp.org/news/sql-and-databases-full-course/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7020771274977132545)
-
 
 **Data Modeling**
 - [Kimball Modeling](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7018264947168071680)
