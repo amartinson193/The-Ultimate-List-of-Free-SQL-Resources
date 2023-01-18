@@ -92,10 +92,17 @@ Each resource may be tagged with the following:
 - [Codewars](https://www.codewars.com/)
 - [HackerRank](https://www.hackerrank.com/domains/sql)
 - [LeetCode (Freemium)](https://leetcode.com/study-plan/sql/)
-- [SQL Murder Mystery](https://mystery.knightlab.com/)
-- [SQLBattle](https://sqlbattle.dev/)
 - [Advanced SQL Puzzles](https://advancedsqlpuzzles.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6960630791550681088)
 - [Ace The SQL Interview by DataLemur](https://datalemur.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6968283612706177026)
+
+**Interactive**
+- [SQLBattle](https://sqlbattle.dev/)
+- [Schemaverse](https://schemaverse.com/)
+- [SQL Murder Mystery](https://mystery.knightlab.com/)
+
+**AI Tools**
+- [AirOps AI Data Sidekick](https://www.airops.com/)
+- [AI2SQL](https://www.ai2sql.io/)
 
 ## Projects
 - [BrainTree SQL Challenge](https://github.com/AlexanderConnelly/BrainTree_SQL_Coding_Challenge_Data_Analyst) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6993649099862376448)
@@ -104,8 +111,6 @@ Each resource may be tagged with the following:
 
 **General/ANSI SQL**
 - [SQL Tutorial - SQLcourse.com](https://www.sqlcourse.com/)
-- [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) 
-- [SQL Bolt](https://sqlbolt.com/)
 - [Relational Database - freecodecamp](https://www.freecodecamp.org/learn/relational-database/)
 - [Awesome Repo (Databases Section)](https://github.com/sindresorhus/awesome)
 - [SQL Tutorial - SQLtutorial.org](https://www.sqltutorial.org/)
@@ -113,9 +118,14 @@ Each resource may be tagged with the following:
 - [SQL Tutorial - Mode](https://mode.com/sql-tutorial/)
 - [SQL Tutorial - tutorialspoint.com](https://www.tutorialspoint.com/sql/) [[LinkedIn]](https://www.linkedin.com/posts/learning-sql_tutorialspoint-sql-tutorial-activity-7009200487606411264-33z4?utm_source=share&utm_medium=member_desktop)
 - [SQL Tutorial - Bipp.io](https://bipp.io/sql-tutorial) [[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7014299041085751296)
-- [SQL Interactive Tutorial - SQLteaching.com](https://www.sqlteaching.com/)
 - [SQL Tutorial - data.world](https://docs.data.world/en/98503-data-world-sql-tutorial.html#UUID-5b9804ef-9cdf-3266-5743-2d4353ef92f7) 
 - [SQL Tutorial - geeksforgeeks](https://www.geeksforgeeks.org/sql-tutorial/?ref=gcse)
+
+**Interactive**
+- [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) 
+- [SQL Bolt](https://sqlbolt.com/)
+- [SQL Interactive Tutorial - SQLteaching.com](https://www.sqlteaching.com/)
+- [GalaXQL SQL Galaxy Interactive Tutoria](https://solhsa.com/g3/)
 
 **Postgres SQL**
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) 
