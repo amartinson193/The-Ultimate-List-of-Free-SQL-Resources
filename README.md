@@ -69,14 +69,14 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 - [SQL Concepts - Data.World](https://docs.data.world/documentation/sql/concepts/basic/SELECT_and_FROM.html)
 - [SQL Cheat Sheet - Steve Nouri](https://github.com/amartinson193/The-Ultimate-List-of-Free-SQL-Resources/blob/main/CheatSheets/SQL%20Cheat%20Sheet%20-%20Steve%20Nouri.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7018966718110715904)
 
-## Online Databases for Practice
+## Practice
+- [Advanced SQL Puzzles](https://advancedsqlpuzzles.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6960630791550681088)
+
+**Online Databases for Practice**
 - [Google BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox) [[LinkedIn]](https://www.linkedin.com/posts/learning-sql_enable-the-bigquery-sandbox-google-cloud-activity-7011362762001895424-4EhO?utm_source=share&utm_medium=member_ios)
 - [PostgreSQL Online Database](https://extendsclass.com/postgresql-online.html)
 - [SQLite Online Database](https://www.sql-practice.com/)
 - [SQL Fiddle](http://sqlfiddle.com/)
-
-## Practice
-- [Advanced SQL Puzzles](https://advancedsqlpuzzles.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6960630791550681088)
 
 **Interactive**
 - [SQLBattle](https://sqlbattle.dev/)
