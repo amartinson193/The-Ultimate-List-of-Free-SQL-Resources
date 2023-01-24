@@ -70,6 +70,7 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 - [SQL Cheat Sheet - Steve Nouri](https://github.com/amartinson193/The-Ultimate-List-of-Free-SQL-Resources/blob/main/CheatSheets/SQL%20Cheat%20Sheet%20-%20Steve%20Nouri.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7018966718110715904)
 
 ## Practice
+**General**
 - [Advanced SQL Puzzles](https://advancedsqlpuzzles.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6960630791550681088)
 
 **Online Databases for Practice**
