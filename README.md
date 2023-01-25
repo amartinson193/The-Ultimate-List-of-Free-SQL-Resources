@@ -75,7 +75,6 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 
 **Online Databases for Practice**
 - [Google BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox) [[LinkedIn]](https://www.linkedin.com/posts/learning-sql_enable-the-bigquery-sandbox-google-cloud-activity-7011362762001895424-4EhO?utm_source=share&utm_medium=member_ios)
-- [PostgreSQL Online Database](https://extendsclass.com/postgresql-online.html)
 - [SQLite Online Database](https://www.sql-practice.com/)
 - [SQL Fiddle](http://sqlfiddle.com/)
 
@@ -155,5 +154,9 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 
 ## Lower Quality Learning Resources Honorable Mentions
 
+**Tutorials/Courses**
 - [Getting Started with SQL - RIP Tutorial](https://riptutorial.com/sql)
+
+**Practice**
+- [PostgreSQL Online Database](https://extendsclass.com/postgresql-online.html)
 
