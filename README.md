@@ -78,8 +78,9 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 - [SQLite Online Database](https://www.sql-practice.com/)
 - [SQL Fiddle](http://sqlfiddle.com/)
 
-** Open-Source Databases for Practice**
+**Open-Source Databases for Practice**
 - [Chinook Database](https://github.com/lerocha/chinook-database) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7024033934464192512)
+
 **Interactive**
 - [SQLBattle](https://sqlbattle.dev/)
 - [Schemaverse](https://schemaverse.com/)
