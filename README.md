@@ -58,6 +58,9 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 
 ## Cheatsheets (Multi-Page Booklets)
 
+**SQL Joins**
+- [Inner Joins Gone Wrong - Jeffrey Wiginton](https://github.com/amartinson193/The-Ultimate-List-of-Free-SQL-Resources/blob/main/CheatSheets/Inner%20Joins%20Gone%20Wrong%20-%20Jeffrey%20Wigington.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7026957128296800256)
+
 **SQL Interview Cheatsheets**
 - [SQL Interview Questions & Answers](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Interview%20Questions%20%26%20Answers.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6924752118369173504)
 - [SQL Interview Questions by Atul Kumar](https://github.com/amartinson193/The-Ultimate-List-of-Free-SQL-Resources/blob/main/CheatSheets/SQL%20Interview%20Questions%20by%20Atul%20Kumar.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6965675909211111424) 
