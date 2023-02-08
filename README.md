@@ -64,7 +64,7 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 **SQL Interview Cheatsheets**
 - [SQL Interview Questions & Answers](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Interview%20Questions%20%26%20Answers.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6924752118369173504)
 - [SQL Interview Questions - Atul Kumar](https://github.com/amartinson193/The-Ultimate-List-of-Free-SQL-Resources/blob/main/CheatSheets/SQL%20Interview%20Questions%20by%20Atul%20Kumar.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6965675909211111424) 
-- [MySQL Interview Questions - Stratascratch](https://www.stratascratch.com/blog/mysql-interview-questions/) 
+- [MySQL Interview Questions - Stratascratch](https://www.stratascratch.com/blog/mysql-interview-questions/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7029130791330746368)
 
 **SQL Commands Cheatsheets**
 - [Basic Statistics Using SQL](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Basic%20Statistics%20Using%20SQL.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6926917777811247104)
