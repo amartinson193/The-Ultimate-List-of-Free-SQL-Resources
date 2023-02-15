@@ -48,12 +48,12 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 - [SQL Commands Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Commands%20Cheatsheet.jpeg)
 - [SQL Cheatsheet for Data Science](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Cheat%20Sheet%20For%20Data%20Science.pdf)
 - [Data Prep with SQL Quick Reference](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Data%20Prep%20with%20SQL%20-%20Quick%20Reference.jpeg)
-- [The Big 6 of SQL Query Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/The%20Big%206%20of%20SQL%20Querying%20from%20Maven%20Analytics.pdf) 
+- [The Big 6 of SQL Query Cheatsheet - Maven Analytics](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/The%20Big%206%20of%20SQL%20Querying%20from%20Maven%20Analytics.pdf) 
 - [Row Number, Rank, and Dense Rank - Jess Ramos](https://www.linkedin.com/feed/update/urn:li:activity:6975822793540001792) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6975822793540001792)
 - [SQL Commands Categories - GeeksforGeeks](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6988922311902908416)
 
 **General SQL Cheatsheets**
-- [Common Commands SQL Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Cheatsheet%20Compilation.jpeg) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6942167836119154688)
+- [Common Commands SQL Cheatsheet - Abz Aaron](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Cheatsheet%20Compilation.jpeg) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6942167836119154688)
 - [Database Types](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Types%20of%20Databases.jpeg)
 
 ## Cheatsheets (Multi-Page Booklets)
