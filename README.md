@@ -77,6 +77,7 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 **General SQL Cheatsheets**
 - [SQL Cheatsheet Booklet - InterviewBit](https://www.interviewbit.com/sql-cheat-sheet/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6966441887935119360)
 - [SQL Cheat Sheet - Steve Nouri](https://github.com/amartinson193/The-Ultimate-List-of-Free-SQL-Resources/blob/main/CheatSheets/SQL%20Cheat%20Sheet%20-%20Steve%20Nouri.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7018966718110715904)
+- [SQL Basics Cheat Sheet - LearnSQL.com](https://github.com/amartinson193/The-Ultimate-List-of-Free-SQL-Resources/blob/main/CheatSheets/SQL%20Cheatsheet%20-%20learnsql.com.pdf)
 
 ## Practice
 **General**
