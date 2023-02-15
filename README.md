@@ -36,8 +36,8 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 **SQL Join Cheatsheets**
 - [SQL Joins — Venn Diagram - C.L. Moffat](https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6930869117067427840)
 - [SQL Joins — Venn Diagram Alternate](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Joins%20Alternate.png)
-- [SQL Joins — Checkered Flag Diagram](https://github.com/amartinson193/SQL_Checkered_Flag_Join_Diagrams) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6930869117067427840)
-- [SQL Joins — Join Diagram](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Join%20Diagram.png) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6930869117067427840)
+- [SQL Joins — Checkered Flag Diagram - Hadley Wickham/Andreas Martinson](https://github.com/amartinson193/SQL_Checkered_Flag_Join_Diagrams) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6930869117067427840)
+- [SQL Joins — Join Diagram - Google](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Join%20Diagram.png) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6930869117067427840)
 - [SQL Joins - Join Diagram Highlighted Rows](https://github.com/amartinson193/The-Ultimate-List-of-Free-SQL-Resources/blob/main/CheatSheets/SQL%20Joins%20-%20Join%20Diagram%20Highlighted%20Table%20Rows.jpeg) [[Source]](https://www.linkedin.com/posts/panagiotis-papaemmanouil_this-is-the-only-cheat-sheet-youll-activity-6958345519827963904-2srl?utm_source=linkedin_share&utm_medium=member_desktop_web) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6961318034338684928)
 
 **SQL Order of Execution Cheatsheets**
