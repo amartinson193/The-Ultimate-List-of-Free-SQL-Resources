@@ -44,9 +44,8 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 - [SQL Order of Execution - Data Science Infinity](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Order%20of%20Execution%20-%20Data%20Science%20Infinity.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6991123163216519168)
 
 **SQL Commands Cheatsheets**
-- [SQL Mind Map](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Mind%20Map.jpeg)
-- [SQL Commands Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Commands%20Cheatsheet.jpeg)
-- [SQL Cheatsheet for Data Science](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Cheat%20Sheet%20For%20Data%20Science.pdf)
+- [SQL Mind Map - Data Engineering LATAM](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Mind%20Map.jpeg)
+- [SQL Commands Cheatsheet - yosracodes](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Commands%20Cheatsheet.jpeg)
 - [Data Prep with SQL Quick Reference](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Data%20Prep%20with%20SQL%20-%20Quick%20Reference.jpeg)
 - [The Big 6 of SQL Query Cheatsheet - Maven Analytics](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/The%20Big%206%20of%20SQL%20Querying%20from%20Maven%20Analytics.pdf) 
 - [Row Number, Rank, and Dense Rank - Jess Ramos](https://www.linkedin.com/feed/update/urn:li:activity:6975822793540001792) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6975822793540001792)
@@ -72,7 +71,8 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
   - [Page 1](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL-Cheet-Sheet-1-SQL-Tutorial.png)
   - [Page 2](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL-Cheat-Sheet-2-SQL-Tutorial.png)
   - [Page 3](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL-Cheat-Sheet-3-SQL-Tutorial.png)
-- [SQL Visuals for SQL Sprinters Cheatsheet](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Visuals%20for%20SQL%20Sprinters.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6996174736191803392)
+- [SQL Visuals for SQL Sprinters Cheatsheet - Thom Ives/ Ghaith Sankari](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Visuals%20for%20SQL%20Sprinters.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6996174736191803392)
+- [SQL Cheatsheet for Data Science](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Cheat%20Sheet%20For%20Data%20Science.pdf)
 
 **General SQL Cheatsheets**
 - [SQL Cheatsheet Booklet - InterviewBit](https://www.interviewbit.com/sql-cheat-sheet/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6966441887935119360)
