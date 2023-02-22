@@ -94,7 +94,7 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 **Interactive**
 - [SQLBattle](https://sqlbattle.dev/)
 - [Schemaverse](https://schemaverse.com/)
-- [SQL Murder Mystery](https://mystery.knightlab.com/)
+- [SQL Murder Mystery](https://mystery.knightlab.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7034209513167536130)
 - [Codewars](https://www.codewars.com/)
 - [HackerRank](https://www.hackerrank.com/domains/sql)
 - [LeetCode (Freemium)](https://leetcode.com/study-plan/sql/)
