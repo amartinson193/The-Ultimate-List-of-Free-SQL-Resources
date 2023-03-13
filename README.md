@@ -122,7 +122,6 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 - [SQL Tutorial - Mode](https://mode.com/sql-tutorial/)
 - [SQL Tutorial - tutorialspoint.com](https://www.tutorialspoint.com/sql/) [[LinkedIn]](https://www.linkedin.com/posts/learning-sql_tutorialspoint-sql-tutorial-activity-7009200487606411264-33z4?utm_source=share&utm_medium=member_desktop)
 - [SQL Tutorial - Bipp.io](https://bipp.io/sql-tutorial) [[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7014299041085751296)
-- [SQL Tutorial - data.world](https://docs.data.world/en/98503-data-world-sql-tutorial.html#UUID-5b9804ef-9cdf-3266-5743-2d4353ef92f7) 
 - [SQL Tutorial - geeksforgeeks](https://www.geeksforgeeks.org/sql-tutorial/?ref=gcse)
 
 **Interactive**
@@ -136,6 +135,7 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 - [SQL Interactive Tutorial - SQLteaching.com](https://www.sqlteaching.com/)
 - [GalaXQL SQL Galaxy Interactive Tutorial](https://solhsa.com/g3/)
 - [Select Star SQL](https://selectstarsql.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6942500246333607937)
+- [SQL Tutorial - data.world](https://docs.data.world/en/98503-data-world-sql-tutorial.html#UUID-5b9804ef-9cdf-3266-5743-2d4353ef92f7) 
 
 **Postgres SQL**
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) 
