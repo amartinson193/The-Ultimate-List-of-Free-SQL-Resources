@@ -156,6 +156,7 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 - [SQL for Data Analysis - Cathy Tanimura (O'Reilly)](https://www.oreilly.com/library/view/sql-for-data/9781492088776/)
 - [Learning SQL - Alan Beaulieu (O'Reilly)](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
 - [SQL with Practice Exercises - D Armstrong](https://www.amazon.com/gp/product/B01CX2B006/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B01CX2B006&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
+- [SQL Antipatterns](https://www.amazon.com/SQL-Antipatterns-Programming-Pragmatic-Programmers/dp/1934356557)
 
 **Interactive Courses/Tutorials**
 - [Learn SQL - Datacamp](https://www.datacamp.com/learn/sql)
