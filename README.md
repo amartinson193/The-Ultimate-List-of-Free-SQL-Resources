@@ -20,7 +20,7 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 - [SQL for Data Analytics — Beginners Guide by Standford University](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/Books/SQL%20for%20Data%20Analytics%20by%20Standford%20University.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6925857934140715008/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6925857934140715008%29)
 - [SQL Server Execution Plans](https://www.red-gate.com/simple-talk/books/sql-server-execution-plans-third-edition-by-grant-fritchey/)
 - [Use the Index, Luke](https://use-the-index-luke.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6963935589154840576)
-
+- [Learning SQL Stack Overflow eBook](https://www.linkedin.com/feed/update/urn:li:activity:7057360785609555969?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7057360785609555969%29) 
 
 ## Blogs
 - [SQL Blog - KDNuggets](https://www.kdnuggets.com/tag/sql) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6929437674181185537)
