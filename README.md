@@ -101,6 +101,7 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 - [HackerRank](https://www.hackerrank.com/domains/sql)
 - [LeetCode (Freemium)](https://leetcode.com/study-plan/sql/)
 - [Ace The SQL Interview - DataLemur](https://datalemur.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6968283612706177026)
+- [SQL Interview Questions - BoldCoder](https://boldcoder.blogspot.com/2024/08/fresher-sql-interview-questions.html)
 - [SQL Concepts - Data.World](https://docs.data.world/documentation/sql/concepts/basic/SELECT_and_FROM.html)
 
 ## SQL Tools
