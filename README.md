@@ -89,6 +89,7 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 - [Google BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox) [[LinkedIn]](https://www.linkedin.com/posts/learning-sql_enable-the-bigquery-sandbox-google-cloud-activity-7011362762001895424-4EhO?utm_source=share&utm_medium=member_ios)
 - [SQLite Online Database](https://www.sql-practice.com/)
 - [SQL Fiddle](http://sqlfiddle.com/)
+- [Moneybowl - Online cricket database for practice having every match info since 2001](https://moneybowl.xyz?utm_source=amartinson193&utm_medium=github)
 
 **Open-Source Databases for Practice**
 - [Chinook Database](https://github.com/lerocha/chinook-database) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7024033934464192512)
