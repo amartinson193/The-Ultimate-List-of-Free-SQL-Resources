@@ -55,6 +55,7 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 - [Common Commands SQL Cheatsheet - Abz Aaron](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/SQL%20Cheatsheet%20Compilation.jpeg) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6942167836119154688)
 - [Database Types](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/CheatSheets/Types%20of%20Databases.jpeg)
 - [SQL Queries Cheat Sheet](https://helpercodes.com/sql-query-cheatsheet-tutorial/)
+- [SQL tips and tricks](https://github.com/ben-nour/SQL-tips-and-tricks)
 
 ## Cheatsheets (Multi-Page Booklets)
 
