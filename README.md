@@ -140,6 +140,7 @@ Each resource may be tagged with a LinkedIn link in addition to the original lin
 - [GalaXQL SQL Galaxy Interactive Tutorial](https://solhsa.com/g3/)
 - [Select Star SQL](https://selectstarsql.com/) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6942500246333607937)
 - [SQL Tutorial - data.world](https://docs.data.world/en/98503-data-world-sql-tutorial.html#UUID-5b9804ef-9cdf-3266-5743-2d4353ef92f7) 
+- [Indentwise SQL](https://learn.steadypathcompany.com/sql/?utm_source=directory&utm_medium=listing&utm_campaign=acq_2026-11&utm_content=ultimate-sql-resources) (free Beginner lessons, no sign-up; Intermediate and Advanced are paid)
 
 **Postgres SQL**
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) 
